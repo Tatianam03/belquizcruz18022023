@@ -1,0 +1,8 @@
+C:\Users\MINEDUCYT\Desktop\Programacion I\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\MINEDUCYT\Desktop\Programacion I\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\MINEDUCYT\Desktop\Programacion I\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\MINEDUCYT\Desktop\Programacion I\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Programacion I\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\Desktop\Programacion I\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Programacion I\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\MINEDUCYT\Desktop\Programacion I\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
